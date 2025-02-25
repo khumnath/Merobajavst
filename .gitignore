@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sublime-text
+*.sublime-workspace
+*.sublime-project
